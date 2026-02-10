@@ -15,6 +15,7 @@
 <div align="center">
   <img align="top" margin ="10px" alt="HTML" width="40px" src="https://skillicons.dev/icons?i=html" />
   <img align="top" alt="CSS" width="40px" src="https://skillicons.dev/icons?i=css" />
+  <img align="top" alt="CSS" width="40px" src="https://skillicons.dev/icons?i=sass" />
   <img align="top" alt="JavaScript" width="40px" src="https://skillicons.dev/icons?i=js" />
   <img align="top" alt="TypeScript" width="40px" src="https://skillicons.dev/icons?i=ts" />
   <img align="top" alt="React" width="40px" src="https://skillicons.dev/icons?i=react" />
